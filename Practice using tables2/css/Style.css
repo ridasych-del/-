@@ -1,0 +1,24 @@
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+th,
+td,
+caption {
+	border: 1px solid #000;
+	font-family: Sans-Serif;
+}
+
+caption {
+	border-bottom: none;
+	font-weight: 700;
+}
+
+th {
+	font-weight: 600;
+}
+
+.color {
+	color: #f00;
+}
